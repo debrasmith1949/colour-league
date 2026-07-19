@@ -1,6 +1,6 @@
 {
   "colour-league": {
-    "image": "ghcr.io/YOUR_GITHUB_USERNAME/YOUR_REPO:latest",
+    "image": "ghcr.io/debrasmith1949/colour-league:latest",
     "ports": {
       "80": "HTTP"
     }
