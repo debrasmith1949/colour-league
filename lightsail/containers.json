@@ -1,0 +1,8 @@
+{
+  "colour-league": {
+    "image": "ghcr.io/YOUR_GITHUB_USERNAME/YOUR_REPO:latest",
+    "ports": {
+      "80": "HTTP"
+    }
+  }
+}

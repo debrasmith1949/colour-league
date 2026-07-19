@@ -1,0 +1,8 @@
+{
+  "containerName": "colour-league",
+  "containerPort": 80,
+  "healthCheck": {
+    "path": "/",
+    "successCodes": "200-399"
+  }
+}
